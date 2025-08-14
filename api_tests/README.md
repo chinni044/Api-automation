@@ -8,5 +8,3 @@ https://jsonplaceholder.typicode.com/posts
 - Positive & negative API tests
 - Fixture-based architecture for maintainability
 - Easily extensible for more endpoints
-
-## 📂 Project Structure
